@@ -15,7 +15,6 @@ export default function () {
 //     setTimeout(() => {
 //       if (to.hash === '#scroll-here') {
 //         VueScrollTo.scrollTo('#scroll-here', 300, { easing: 'linear' })
-//         // resolve({ x: 0, y: 500, behavior: 'smooth' })
 //       }
 //     }, 10)
 //   })
